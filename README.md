@@ -9,3 +9,6 @@ Noms et Rôles :
 
 - DOOM Tevaitea : Développeur C
 
+- Bonnet Romain : Développeur D
+
+
