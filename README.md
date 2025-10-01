@@ -7,3 +7,5 @@ Noms et Rôles :
 
 - AHOUANHOU Fidel : Développeur A
 
+- DOOM Tevaitea : Développeur C
+
